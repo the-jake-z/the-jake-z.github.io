@@ -21,3 +21,9 @@ body {
     padding: 16pt;
     text-align: center;
 }
+
+#picture {
+    width: 200px;
+    border-radius: 33%;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}
